@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github link](https://github.com/Amakoye/3-column-preview-card-component-main)
-- Live Site URL: [demo link](https://stats-preview-card-component-main-puce.vercel.app/)
+- Live Site URL: [demo link](https://3-column-preview-card-component-main-livid.vercel.app/)
 
 ## My process
 
